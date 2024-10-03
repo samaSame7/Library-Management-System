@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1699229252 source:c:\users\hewlett-packard\desktop\project_1\main.cpp
+	<iostream>
+	"library.h"
+
+1699205922 source:c:\users\hewlett-packard\desktop\project_1\book.cpp
+	"book.h"
+
+1699230294 c:\users\hewlett-packard\desktop\project_1\book.h
+	<iostream>
+	<string>
+
+1699206046 source:c:\users\hewlett-packard\desktop\project_1\node.cpp
+	"node.h"
+
+1698674106 c:\users\hewlett-packard\desktop\project_1\node.h
+
+1698623050 source:c:\users\hewlett-packard\desktop\project_1\container.cpp
+	"container.h"
+
+1699232742 c:\users\hewlett-packard\desktop\project_1\container.h
+	"node.h"
+	<iostream>
+
+1698685463 source:c:\users\hewlett-packard\desktop\project_1\system.cpp
+	"system.h"
+	"container.h"
+
+1698685451 c:\users\hewlett-packard\desktop\project_1\system.h
+
+1699233953 source:c:\users\hewlett-packard\desktop\project_1\library.cpp
+	"library.h"
+	<unistd.h>
+	<stdexcept>
+
+1699227388 c:\users\hewlett-packard\desktop\project_1\library.h
+	"container.h"
+	"book.h"
+
